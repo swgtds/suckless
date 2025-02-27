@@ -1,5 +1,8 @@
 # Suckless Utilities
 
+## Demo
+![dwm demo](dwm-demo.gif)
+
 This repository contains my customized versions of **dwm**, **slstatus**, and **dmenu** from [suckless.org](https://suckless.org/).
 
 ## Included Tools
